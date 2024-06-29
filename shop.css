@@ -1,0 +1,126 @@
+.bg-container {
+    background-image: url("https://superdevresources.com/wp-content/uploads/2016/01/ecommerce-line-icons-preview.png");
+    width: 100vw;
+    height: 135vh;
+    background-size: cover;
+}
+
+.card_1 {
+    background-color: #fff;
+    padding: 40px;
+    margin-top: 20px;
+    border-radius: 35px;
+    box-shadow: 10px 10px rgb(13, 13, 14);
+}
+
+.login_heading {
+    color: black;
+    font-weight: 600;
+    font-style: italic;
+    text-align: center;
+
+    font-size: 27px;
+}
+
+.input_user {
+    border-radius: 8px;
+    outline: none;
+    border-color: none;
+    width: 200px;
+    border-width: 0;
+}
+
+.card_input {
+    border-color: #979faf;
+    border-radius: 7px;
+    border-width: 1.5px;
+    border-style: solid;
+}
+
+.btn-button {
+    background-image: linear-gradient(246deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 210, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    width: 180px;
+    height: 35px;
+    border-radius: 20px;
+    border-width: 0;
+}
+
+.para_1 {
+    color: #454545;
+}
+
+.para_1:hover {
+    color: #0000FF;
+    text-decoration: underline;
+}
+
+.bg-container_second {
+    background-image: linear-gradient(#1bd0e5, #0c2ca8);
+    height: 100vh;
+    width: 100vw;
+}
+
+.card_Create_account {
+    background-color: #ffff;
+    background-color: #fff;
+    padding: 40px;
+    width: 320px;
+    margin-top: 20px;
+    border-radius: 35px;
+    box-shadow: 10px 10px rgb(13, 13, 14);
+}
+
+.heading_create {
+    color: #44aca0;
+    text-align: center;
+    font-size: 27px;
+}
+
+.display_block {
+    display: block;
+}
+
+.display_none {
+    display: none;
+
+}
+
+.whatsapp {
+    font-size: 30px;
+}
+
+.whatsapp:hover {
+    color: #25D366;
+    font-size: 30px;
+    transform: scale(1.5);
+}
+
+.instagram {
+    font-size: 30px;
+}
+
+.instagram:hover {
+    color: #C13584;
+    font-size: 30px;
+    transform: scale(1.5);
+}
+
+.twitter {
+    font-size: 30px;
+}
+
+.twitter:hover {
+    font-size: 30px;
+    color: #1DA1F2;
+    transform: scale(1.5);
+}
+
+.face_book {
+    font-size: 30px;
+}
+
+.face_book:hover {
+    font-size: 30px;
+    color: #4267B2;
+    transform: scale(1.5);
+}
